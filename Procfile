@@ -1,1 +1,1 @@
-web: gunicorn forecast_regession:app --log-file=-
+web: gunicorn forecast_regession:app 
